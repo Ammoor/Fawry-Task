@@ -1,0 +1,9 @@
+{
+    "name": "dell/fawry-task",
+    "autoload": {
+        "psr-4": {
+            "Dell\\FawryTask\\": "src/"
+        }
+    },
+    "require": {}
+}
