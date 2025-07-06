@@ -1,9 +1,7 @@
 {
-    "name": "dell/fawry-task",
-    "autoload": {
-        "psr-4": {
-            "Dell\\FawryTask\\": "src/"
-        }
-    },
-    "require": {}
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  }
 }

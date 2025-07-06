@@ -6,6 +6,7 @@ use Src\Models\ShippableProduct;
 use Src\Models\PerishableProduct;
 
 require_once __DIR__ . '/vendor/autoload.php';
+require_once __DIR__ . '/ECommerceSystem.php';
 
 echo "=== MODULAR E-COMMERCE SYSTEM DEMO ===\n\n";
 
